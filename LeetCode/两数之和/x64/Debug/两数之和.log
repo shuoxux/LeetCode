@@ -1,0 +1,4 @@
+﻿  两数之和.cpp
+E:\GithubShuoxux\LeetCode\LeetCode\两数之和\两数之和.cpp(13,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\GithubShuoxux\LeetCode\LeetCode\两数之和\两数之和.cpp(58,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  两数之和.vcxproj -> E:\GithubShuoxux\LeetCode\LeetCode\x64\Debug\两数之和.exe
